@@ -1,2 +1,0 @@
-# tailieu-Openstack
- 
